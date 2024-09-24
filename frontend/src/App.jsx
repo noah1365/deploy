@@ -25,9 +25,9 @@ import PayrollDistribution from './pages/manager/payroll/PayrollDistribution';
 import ComplianceTracking from './pages/manager/payroll/ComplianceTracking';
 
 import HealthBenefitsManagement from './pages/manager/benefits/HealthBenefitsManagement';
-import RetirementPlans from './pages/manager/Benefits/RetirementPlans';
-import LeaveManagement from './pages/manager/Benefits/LeaveManagement';
-import FlexibleBenefits from './pages/manager/Benefits/FlexibleBenefits';
+import RetirementPlans from './pages/manager/benefits/RetirementPlans';
+import LeaveManagement from './pages/manager/benefits/LeaveManagement';
+import FlexibleBenefits from './pages/manager/benefits/FlexibleBenefits';
 
 import PerformanceBasedBonuses from './pages/manager/Incentives/PerformanceBasedBonuses';
 import RecognitionPrograms from './pages/manager/Incentives/RecognitionPrograms';
