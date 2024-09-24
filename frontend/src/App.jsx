@@ -24,7 +24,7 @@ import DeductionsManagement from './pages/manager/payroll/DeductionsManagement';
 import PayrollDistribution from './pages/manager/payroll/PayrollDistribution';
 import ComplianceTracking from './pages/manager/payroll/ComplianceTracking';
 
-import HealthBenefitsManagement from './pages/manager/Benefits/HealthBenefitsManagement';
+import HealthBenefitsManagement from './pages/manager/benefits/HealthBenefitsManagement';
 import RetirementPlans from './pages/manager/Benefits/RetirementPlans';
 import LeaveManagement from './pages/manager/Benefits/LeaveManagement';
 import FlexibleBenefits from './pages/manager/Benefits/FlexibleBenefits';

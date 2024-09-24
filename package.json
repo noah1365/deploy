@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-  "install": "npm install && npm install --prefix frontend",
   "build": "npm run install && npm run build --prefix frontend",
   "dev": "NODE_ENV=development nodemon backend/index.js",
   "start": "NODE_ENV=production node backend/index.js"
